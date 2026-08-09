@@ -35,6 +35,8 @@ Ancient authorship does **not** make a modern translation, critical edition, tra
 - `catalog/commentaries.csv` — scholars, commentaries, and text relationships
 - `catalog/sources.csv` — source registries and reuse policies
 - `catalog/mirror_manifest.csv` — exact files approved for automated mirroring
+- `exports/Hindu_Scriptures_and_Commentaries_Directory.xlsx` — formatted Excel directory
+- `exports/Hindu_Scriptures_and_Commentaries_Directory.docx` — formatted Word directory
 - `texts/` — downloaded open-license files, grouped by source and license
 - `scripts/fetch_open_resources.py` — checksum-aware, allowlist-only downloader
 - `scripts/validate_catalog.py` — catalogue and license validation
