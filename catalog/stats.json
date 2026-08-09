@@ -1,0 +1,16 @@
+{
+  "total_text_records": 248,
+  "by_category": {
+    "Darśana": 6,
+    "Dharmaśāstra": 36,
+    "Itihāsa": 29,
+    "Purāṇa": 26,
+    "Upaniṣad": 108,
+    "Upaveda / Śāstra": 6,
+    "Vedāṅga": 8,
+    "Āgama / Tantra": 15,
+    "Śruti": 14
+  },
+  "generated_from": "scripts/build_catalog.py",
+  "scope_note": "This is a requested-scope catalogue, not a claim that every title has a settled canonical status or a reusable digital edition."
+}

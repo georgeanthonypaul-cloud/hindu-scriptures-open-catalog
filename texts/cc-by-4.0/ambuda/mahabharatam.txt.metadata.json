@@ -1,0 +1,13 @@
+{
+  "id": "ambuda-mahabharata",
+  "title": "Mahabharata",
+  "layer": "root-text",
+  "source_id": "ambuda-dcs",
+  "source_url": "https://raw.githubusercontent.com/ambuda-org/dcs/main/mahabharatam.txt",
+  "license_id": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Oliver Hellwig, Digital Corpus of Sanskrit (2010-2021); sanitized distribution by Ambuda",
+  "verified_on": "2026-08-09",
+  "verification_note": "Ambuda repository README states DCS license CC BY 4.0.",
+  "sha256": "8e871cc252997c03bfb59d47bcfe017c6194041914746cb0a72e4150bd0f120e"
+}

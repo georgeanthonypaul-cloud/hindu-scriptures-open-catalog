@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this catalogue, cite the repository and the exact upstream edition used."
+title: "Hindu Scriptures Open Catalogue"
+type: dataset
+version: 0.1.0
+date-released: 2026-08-09
+license: CC0-1.0
+repository-code: "https://github.com/georgeanthonypaul-cloud/hindu-scriptures-open-catalog"

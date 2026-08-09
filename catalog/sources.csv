@@ -1,0 +1,14 @@
+source_id,name,homepage,source_type,default_policy,rights_note
+sarit,SARIT Corpus,https://github.com/sarit/SARIT-corpus,TEI corpus,per-file,"Inspect every TEI availability statement; licenses vary by file."
+ambuda-dcs,Ambuda Digital Corpus of Sanskrit,https://github.com/ambuda-org/dcs,text corpus,CC-BY-4.0,"README attributes source to Oliver Hellwig's DCS 2010-2021 under CC BY 4.0."
+gretil,GRETIL Mirror,https://github.com/INDOLOGY/GRETIL-mirror,e-text mirror,link-only,"No blanket reuse assumption; verify source and file metadata."
+sanskrit-documents,Sanskrit Documents,https://sanskritdocuments.org/,e-text collection,link-only,"Mix of public-domain and permissioned files; document headers control."
+muktabodha,Muktabodha Digital Library,https://muktabodha-digital-library.org/,specialist library,link-only,"Free access does not establish blanket redistribution rights."
+gita-supersite,Gita Supersite IIT Kanpur,https://www.gitasupersite.iitk.ac.in/,study portal,link-only,"Sanskrit and modern translation/commentary rights are mixed."
+gaudiya-grantha,Gaudiya Grantha Mandira,https://grantha.jiva.org/index.php?show=home,specialist library,link-only,"Verify item-level terms and modern translation rights."
+internet-archive,Internet Archive,https://archive.org/,scan library,per-item,"Uploader labels are not conclusive; verify edition date and item rights."
+project-gutenberg,Project Gutenberg,https://www.gutenberg.org/,public-domain library,per-item,"Public-domain status is stated for the United States; check territorial law."
+project-madurai,Project Madurai,https://www.projectmadurai.org/,Tamil e-text collection,per-item,"Project states texts are public domain or published with permission; retain item notices."
+vachana-sanchaya,Vachana Sanchaya,https://vachana.sanchaya.net/,Kannada research platform,link-only,"Original vachanas and modern editorial/translation/data layers may have different rights."
+open-library,Open Library,https://openlibrary.org/,catalogue and lending,link-only,"Catalogue access or borrowing does not grant redistribution permission."
+

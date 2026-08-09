@@ -1,0 +1,13 @@
+{
+  "id": "sarit-nyaya-vatsyayana",
+  "title": "Nyayasutra with Vatsyayana Nyayabhasya",
+  "layer": "root-text-and-commentary",
+  "source_id": "sarit",
+  "source_url": "https://raw.githubusercontent.com/sarit/SARIT-corpus/master/vatsyayana-nyayabhasya.xml",
+  "license_id": "CC-BY-SA-3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "attribution": "Young Buddhist Association of the University of Tokyo (Bussei); distributed by SARIT",
+  "verified_on": "2026-08-09",
+  "verification_note": "TEI header explicitly states CC BY-SA 3.0 and attribution.",
+  "sha256": "f46b12b0b9cf00b8004498a9d6a1433f64b9f3dc1447aa58646398c5739bb3ba"
+}

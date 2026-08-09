@@ -1,0 +1,24 @@
+name: Rights review or takedown
+description: Report missing attribution, uncertain reuse terms, or a rights concern.
+title: "[Rights] "
+labels: [rights-review]
+body:
+  - type: input
+    id: resource
+    attributes:
+      label: Resource or file
+    validations:
+      required: true
+  - type: textarea
+    id: concern
+    attributes:
+      label: Rights concern and supporting evidence
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Authoritative source URL
+    validations:
+      required: true
+
