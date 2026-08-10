@@ -7,8 +7,8 @@ Coverage is measured per digital edition, not merely per ancient title. A Sanskr
 The manifest contains 29 downloaded files with pinned SHA-256 checksums:
 
 - 2 CC BY 4.0 Sanskrit corpora: Rāmāyaṇa and Mahābhārata.
-- 15 CC BY-SA Sanskrit/TEI files: root texts, critical editions, and classical commentaries from SARIT.
-- 10 public-domain-US English Project Gutenberg books, including the four-volume Ganguli Mahābhārata.
+- 14 CC BY-SA Sanskrit/TEI files: root texts, critical editions, and classical commentaries from SARIT.
+- 11 public-domain-US English Project Gutenberg books, including the four-volume Ganguli Mahābhārata.
 - 2 public-domain-US Max Müller Upaniṣad OCR volumes derived from 1879 and 1884 editions.
 
 ## Requested records with mirrored coverage
