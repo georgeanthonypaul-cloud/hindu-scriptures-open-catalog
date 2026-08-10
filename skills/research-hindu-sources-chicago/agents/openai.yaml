@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hindu Source Research"
+  short_description: "Research Hindu texts with Chicago citations"
+  default_prompt: "Use $research-hindu-sources-chicago to research this Hindu text and cite every source in Chicago style."

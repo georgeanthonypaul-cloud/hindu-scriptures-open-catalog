@@ -47,6 +47,7 @@ Ancient authorship does **not** make a modern translation, critical edition, tra
 - `scripts/update_manifest_checksums.py` — pins downloaded payload checksums
 - `scripts/update_coverage_status.py` — synchronizes edition-level coverage states
 - `scripts/validate_catalog.py` — catalogue and license validation
+- `skills/research-hindu-sources-chicago/` — reusable Codex research skill requiring edition verification and Chicago citations
 - `RIGHTS_POLICY.md` — mandatory rights workflow
 - `THIRD_PARTY_NOTICES.md` — attribution for mirrored material
 
