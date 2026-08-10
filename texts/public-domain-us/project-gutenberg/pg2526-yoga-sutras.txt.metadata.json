@@ -1,0 +1,13 @@
+{
+  "id": "pg-2526-yoga-sutras",
+  "title": "The Yoga Sutras of Patanjali",
+  "layer": "english-translation-and-commentary",
+  "source_id": "project-gutenberg",
+  "source_url": "https://www.gutenberg.org/cache/epub/2526/pg2526.txt",
+  "license_id": "Public-Domain-US",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "attribution": "Charles Johnston (editor/translator); Project Gutenberg ebook 2526",
+  "verified_on": "2026-08-09",
+  "verification_note": "Project Gutenberg item states public domain in the USA and includes the Project Gutenberg License.",
+  "sha256": "8993f37c71c83095c46f3355aa4c9350838b1043edf443f9653f48cd157e88f5"
+}

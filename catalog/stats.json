@@ -11,6 +11,14 @@
     "Āgama / Tantra": 15,
     "Śruti": 14
   },
-  "generated_from": "scripts/build_catalog.py",
-  "scope_note": "This is a requested-scope catalogue, not a claim that every title has a settled canonical status or a reusable digital edition."
+  "by_mirror_status": {
+    "link-only-pending-rights": 195,
+    "mirrored-open-license-sanskrit": 16,
+    "mirrored-public-domain-english": 14,
+    "mirrored-public-domain-english-commentaries": 1,
+    "mirrored-sanskrit-and-public-domain-english": 21,
+    "partial-open-license-sanskrit": 1
+  },
+  "generated_from": "scripts/update_coverage_status.py",
+  "scope_note": "Coverage is edition-specific. A mirrored translation or partial edition does not establish complete Sanskrit-and-English coverage of a title."
 }

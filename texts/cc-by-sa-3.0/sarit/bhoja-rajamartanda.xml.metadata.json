@@ -1,0 +1,13 @@
+{
+  "id": "sarit-bhoja-rajamartanda",
+  "title": "Rajamartanda or Bhojavritti",
+  "layer": "commentary",
+  "source_id": "sarit",
+  "source_url": "https://raw.githubusercontent.com/sarit/SARIT-corpus/master/bhoja-rajamartanda.xml",
+  "license_id": "CC-BY-SA-3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "attribution": "Bhojaraja; machine-readable version by Suryansu Ray; distributed by SARIT",
+  "verified_on": "2026-08-09",
+  "verification_note": "TEI header explicitly licenses the file CC BY-SA 3.0.",
+  "sha256": "5807ffb3b0d709ed3f87bca3f58f0fc0f410c915752f959db574283cf6a000af"
+}

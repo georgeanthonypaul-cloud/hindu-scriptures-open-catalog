@@ -1,0 +1,13 @@
+{
+  "id": "sarit-susrutasamhita",
+  "title": "Susrutasamhita with classical commentaries",
+  "layer": "root-text-and-commentary",
+  "source_id": "sarit",
+  "source_url": "https://raw.githubusercontent.com/sarit/SARIT-corpus/master/susrutasamhita.xml",
+  "license_id": "CC-BY-SA-3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "attribution": "Tsutomu Yamashita, Yasutaka Muroya, and contributors recorded in the TEI header; distributed by SARIT",
+  "verified_on": "2026-08-09",
+  "verification_note": "TEI header explicitly licenses the file CC BY-SA 3.0.",
+  "sha256": "d6e7618db94ae665f465e63d9c08a1cc1d5358a9f07f58cc5b079e53388c1002"
+}

@@ -15,7 +15,11 @@ Current scope includes:
 - Dharmaśāstras, Dharmasūtras, Vedāṅgas, Upavedas, Darśana sūtras, Āgamas, and Tantras;
 - commentarial traditions and the thirty scholars specified in the original research request.
 
-The current machine-readable release contains 248 requested-scope text records, including exactly 108 normalized Upaniṣad records, plus 44 initial author/commentary mappings. “All commentaries” is an open-ended scholarly objective rather than a finite completed set; coverage growth is tracked explicitly instead of being falsely declared complete.
+The current machine-readable release contains 248 requested-scope text records, including exactly 108 normalized Upaniṣad records, plus 44 initial author/commentary mappings. The mirror manifest now contains 29 verified files. Those files provide at least partial Sanskrit or English coverage for 53 catalogue records; 195 records remain link-only pending edition-level rights review.
+
+The first expanded batch includes the complete Ganguli English Mahābhārata in four volumes, Dutt's English Harivaṃśa and Viṣṇupurāṇa, public-domain Upaniṣad collections, English Yoga and Vedānta works, and open-license Sanskrit/TEI editions and commentaries from SARIT. The SARIT Skandapurāṇa file covers only the published critical-edition chapters identified in its TEI header and is explicitly marked partial.
+
+“All commentaries” is an open-ended scholarly objective rather than a finite completed set; coverage growth is tracked explicitly instead of being falsely declared complete.
 
 ## What “open” means here
 
@@ -35,10 +39,13 @@ Ancient authorship does **not** make a modern translation, critical edition, tra
 - `catalog/commentaries.csv` — scholars, commentaries, and text relationships
 - `catalog/sources.csv` — source registries and reuse policies
 - `catalog/mirror_manifest.csv` — exact files approved for automated mirroring
+- `catalog/COVERAGE.md` — verified language/edition coverage and outstanding gaps
 - `exports/Hindu_Scriptures_and_Commentaries_Directory.xlsx` — formatted Excel directory
 - `exports/Hindu_Scriptures_and_Commentaries_Directory.docx` — formatted Word directory
 - `texts/` — downloaded open-license files, grouped by source and license
 - `scripts/fetch_open_resources.py` — checksum-aware, allowlist-only downloader
+- `scripts/update_manifest_checksums.py` — pins downloaded payload checksums
+- `scripts/update_coverage_status.py` — synchronizes edition-level coverage states
 - `scripts/validate_catalog.py` — catalogue and license validation
 - `RIGHTS_POLICY.md` — mandatory rights workflow
 - `THIRD_PARTY_NOTICES.md` — attribution for mirrored material

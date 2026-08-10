@@ -1,0 +1,13 @@
+{
+  "id": "pg-61937-harivamsha",
+  "title": "A Prose English Translation of Harivamsha",
+  "layer": "english-translation",
+  "source_id": "project-gutenberg",
+  "source_url": "https://www.gutenberg.org/cache/epub/61937/pg61937.txt",
+  "license_id": "Public-Domain-US",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "attribution": "Manmatha Nath Dutt (translator); Project Gutenberg ebook 61937",
+  "verified_on": "2026-08-09",
+  "verification_note": "Project Gutenberg item states public domain in the USA and includes the Project Gutenberg License.",
+  "sha256": "839d1c8e329c3aa9e64d2864f88acf6cd2838d61b1ead5c4aa5ecad1a891f4d6"
+}

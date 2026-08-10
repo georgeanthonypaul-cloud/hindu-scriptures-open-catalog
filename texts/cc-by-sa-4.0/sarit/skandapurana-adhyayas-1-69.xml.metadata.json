@@ -1,0 +1,13 @@
+{
+  "id": "sarit-skandapurana-1-69",
+  "title": "Skandapurana critical edition chapters 1-69",
+  "layer": "partial-critical-edition",
+  "source_id": "sarit",
+  "source_url": "https://raw.githubusercontent.com/sarit/SARIT-corpus/master/skandapurana.xml",
+  "license_id": "CC-BY-SA-4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Editors and contributors recorded in the TEI header; distributed by SARIT",
+  "verified_on": "2026-08-09",
+  "verification_note": "TEI header explicitly licenses the file CC BY-SA 4.0; this is not the whole received Skandapurana.",
+  "sha256": "28ad61d4867a7515d55c2628bab744ddc78e53afc452ba71ed9abda1fdaad821"
+}

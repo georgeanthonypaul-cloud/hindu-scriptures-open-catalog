@@ -1,0 +1,13 @@
+{
+  "id": "pg-15475-mahabharata-vol-2",
+  "title": "The Mahabharata English prose volume 2 books 4-7",
+  "layer": "english-translation",
+  "source_id": "project-gutenberg",
+  "source_url": "https://www.gutenberg.org/cache/epub/15475/pg15475.txt",
+  "license_id": "Public-Domain-US",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "attribution": "Kisari Mohan Ganguli (translator); Project Gutenberg ebook 15475",
+  "verified_on": "2026-08-09",
+  "verification_note": "Project Gutenberg item states public domain in the USA and includes the Project Gutenberg License.",
+  "sha256": "135076505fc86930e9817858def7f1448d73d5dbf6000c841eafcc2e73f59eb3"
+}

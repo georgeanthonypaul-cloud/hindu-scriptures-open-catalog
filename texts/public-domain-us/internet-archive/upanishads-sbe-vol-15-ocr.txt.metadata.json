@@ -1,0 +1,13 @@
+{
+  "id": "ia-upanishads-sbe-15",
+  "title": "The Upanishads Part II Sacred Books of the East volume 15",
+  "layer": "english-translation",
+  "source_id": "internet-archive",
+  "source_url": "https://archive.org/download/upanishads02ml/upanishads02ml_djvu.txt",
+  "license_id": "Public-Domain-US",
+  "license_url": "https://www.copyright.gov/help/faq/faq-duration.html",
+  "attribution": "F. Max Muller (translator/editor), Oxford University Press 1884; OCR derivative hosted by Internet Archive",
+  "verified_on": "2026-08-09",
+  "verification_note": "The underlying 1884 edition is public domain in the United States; OCR quality should be checked against the linked scan.",
+  "sha256": "1f2223b0292eb87368cd5373b684b6335373318097847aa18716cfb119c4d6e3"
+}

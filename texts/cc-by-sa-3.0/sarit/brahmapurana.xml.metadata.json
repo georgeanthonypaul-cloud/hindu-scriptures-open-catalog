@@ -1,0 +1,13 @@
+{
+  "id": "sarit-brahmapurana",
+  "title": "Brahmapurana",
+  "layer": "root-text",
+  "source_id": "sarit",
+  "source_url": "https://raw.githubusercontent.com/sarit/SARIT-corpus/master/brahmapurana.xml",
+  "license_id": "CC-BY-SA-3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "attribution": "Peter Schreiner and Renate Sohnen; SARIT contributors recorded in the TEI header",
+  "verified_on": "2026-08-09",
+  "verification_note": "TEI header explicitly licenses the file CC BY-SA 3.0.",
+  "sha256": "6f4438f5d6ce9c3aa9c12f05fbdeb9485b4f08d68c7b6fbccfe58dcbdd6e5a0b"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sarit-carakasamhita",
+  "title": "Carakasamhita with Ayurvedadipika",
+  "layer": "root-text-and-commentary",
+  "source_id": "sarit",
+  "source_url": "https://raw.githubusercontent.com/sarit/SARIT-corpus/master/carakasamhita.xml",
+  "license_id": "CC-BY-SA-3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "attribution": "Tsutomu Yamashita, Yasutaka Muroya, and contributors recorded in the TEI header; distributed by SARIT",
+  "verified_on": "2026-08-09",
+  "verification_note": "TEI header explicitly licenses the file CC BY-SA 3.0.",
+  "sha256": "9f8c1730ff16265b909236539eebcfaa6ddb365fb67c0e07ff4d406b1b583c71"
+}
