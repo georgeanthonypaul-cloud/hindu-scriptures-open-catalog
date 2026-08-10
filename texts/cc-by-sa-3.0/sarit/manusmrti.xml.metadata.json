@@ -1,0 +1,13 @@
+{
+  "id": "sarit-manusmrti",
+  "title": "Manusmrti",
+  "layer": "root-text",
+  "source_id": "sarit",
+  "source_url": "https://raw.githubusercontent.com/sarit/SARIT-corpus/master/manusmrti.xml",
+  "license_id": "CC-BY-SA-3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "attribution": "Contributors and source editions recorded in the TEI header; distributed by SARIT",
+  "verified_on": "2026-08-09",
+  "verification_note": "TEI header explicitly licenses the file CC BY-SA 3.0.",
+  "sha256": "eca7717e1543f60bc0784a02f9a900dc572496e74845a8f51c08aaf0c9490ee3"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sarit-vijnanesvara-mitaksara",
+  "title": "Mitaksara commentary on Yajnavalkya Dharmasastra",
+  "layer": "root-text-and-commentary",
+  "source_id": "sarit",
+  "source_url": "https://raw.githubusercontent.com/sarit/SARIT-corpus/master/vijnanesvara-mitaksara.xml",
+  "license_id": "CC-BY-SA-4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Patrick Olivelle, Donald R. Davis Jr., Amy Hyne-Sutherland, Nikola Rajic, GRETIL, and SARIT",
+  "verified_on": "2026-08-09",
+  "verification_note": "TEI header explicitly licenses the file CC BY-SA 4.0.",
+  "sha256": "784509084b553d2665be58ac97c80bb4e5a9826efbd73483b247bf7ed4fa346f"
+}

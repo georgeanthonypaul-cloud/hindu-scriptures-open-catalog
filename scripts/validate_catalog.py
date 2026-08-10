@@ -59,12 +59,14 @@ def main() -> None:
             errors.append(f"manifest {row['id']}: unknown source_id {row['source_id']}")
         if not valid_url(row["source_url"]):
             errors.append(f"manifest {row['id']}: invalid source URL")
-        if row["status"] == "approved" and not all(row.get(key, "").strip() for key in ["license_id", "license_url", "attribution", "verified_on", "verification_note"]):
+        if row["status"] == "approved" and not all(row.get(key, "").strip() for key in ["license_id", "license_url", "attribution", "verified_on", "verification_note", "sha256"]):
             errors.append(f"manifest {row['id']}: approved row lacks rights evidence")
         if row["destination"] in destinations:
             errors.append(f"manifest {row['id']}: duplicate destination")
         destinations.add(row["destination"])
         path = ROOT / row["destination"]
+        if row["status"] == "approved" and not path.exists():
+            errors.append(f"manifest {row['id']}: approved payload is missing")
         if path.exists():
             actual = hashlib.sha256(path.read_bytes()).hexdigest()
             expected = row["sha256"].strip()
@@ -91,4 +93,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

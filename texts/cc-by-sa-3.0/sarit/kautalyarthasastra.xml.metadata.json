@@ -1,0 +1,13 @@
+{
+  "id": "sarit-kautalyarthasastra",
+  "title": "Kautilya Arthasastra",
+  "layer": "root-text",
+  "source_id": "sarit",
+  "source_url": "https://raw.githubusercontent.com/sarit/SARIT-corpus/master/kautalyarthasastra.xml",
+  "license_id": "CC-BY-SA-3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "attribution": "Muneo Tokunaga, Richard Mahoney, Jinkyoung Choi, and SARIT",
+  "verified_on": "2026-08-09",
+  "verification_note": "TEI header explicitly licenses the file CC BY-SA 3.0.",
+  "sha256": "9eed724dd0bc803e9d32fb8032aa432c352f53d0bb5355fb22a8767d7415e1d2"
+}

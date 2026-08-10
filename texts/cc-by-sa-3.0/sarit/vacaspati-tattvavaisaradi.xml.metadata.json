@@ -1,0 +1,13 @@
+{
+  "id": "sarit-vacaspati-tattvavaisaradi",
+  "title": "Yogasutra with Tattvavaisaradi",
+  "layer": "root-text-and-commentary",
+  "source_id": "sarit",
+  "source_url": "https://raw.githubusercontent.com/sarit/SARIT-corpus/master/vacaspati-tattvavaisaradi.xml",
+  "license_id": "CC-BY-SA-3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "attribution": "Young Buddhist Association of the University of Tokyo (Bussei); distributed by SARIT",
+  "verified_on": "2026-08-09",
+  "verification_note": "TEI header explicitly licenses the file CC BY-SA 3.0.",
+  "sha256": "010527d06955f0163729ec2ebfdd52251f8ba59aaa50e8b5e03fb76fc3cb1b3c"
+}
